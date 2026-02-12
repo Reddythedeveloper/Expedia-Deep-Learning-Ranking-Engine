@@ -1,0 +1,15 @@
+# Ignore Data
+data/
+*.csv
+*.zip
+*.gz
+
+# SECURITY: Never upload API keys
+kaggle.json
+secrets.json
+
+# System files
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
